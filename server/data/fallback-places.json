@@ -1,0 +1,97 @@
+{
+  "PI330449": {
+    "benefit": {
+      "title": "충전 대기 15분, 서당골산채에서 강릉식 한상 어때요?",
+      "subtitle": "도보 2분 거리, 짧은 충전 시간에 딱 맞는 코스예요"
+    },
+    "advisory": null,
+    "action": {
+      "type": "duration",
+      "options": [
+        {
+          "key": "short",
+          "label": "30~90분",
+          "detail": "서부시장 골목 안쪽까지 둘러볼 시간은 충분해요. 서당골산채, 벌집 순으로 다녀오세요.",
+          "places": [
+            { "name": "서당골산채", "distanceM": 152, "walkMin": 2, "category": "음식점" },
+            { "name": "벌집", "distanceM": 189, "walkMin": 3, "category": "음식점" }
+          ]
+        }
+      ]
+    },
+    "nearbyPlaces": [
+      { "name": "서당골산채", "distanceM": 152, "walkMin": 2, "category": "음식점" },
+      { "name": "벌집", "distanceM": 189, "walkMin": 3, "category": "음식점" }
+    ],
+    "cta": { "label": "방문 인증하기", "kind": "receipt_submit", "reward": "서당골산채 2,000원 할인" },
+    "note": "* 예시로 소개한 실제 인근 가게입니다"
+  },
+  "ST511305": {
+    "benefit": {
+      "title": "오늘 전통시장에서 쓴 영수증, 충전 혜택으로 바꿔드려요",
+      "subtitle": "먹거리 골목에서 1만원 이상 결제 후 영수증을 제출해보세요"
+    },
+    "advisory": null,
+    "action": null,
+    "nearbyPlaces": [
+      { "name": "원주 전통시장 먹거리 골목", "distanceM": 210, "walkMin": 3, "category": "음식점" }
+    ],
+    "cta": { "label": "영수증 제출하기", "kind": "receipt_submit", "reward": "전통시장 먹거리 골목 3,000원 할인" },
+    "note": "* 예시로 소개한 실제 인근 가게입니다"
+  },
+  "ME18B201": {
+    "benefit": {
+      "title": "이 충전소 주변엔 걸어서 갈 만한 상권이 없어요",
+      "subtitle": "장시간 충전이 필요하면 대체 충전소를 고려해보세요"
+    },
+    "advisory": "차량 약 12분 거리의 공작산생태숙교육관 인근 충전소에는 화장실·매점이 있습니다. 무리하게 대기하기보다 이동을 권장해요.",
+    "action": null,
+    "nearbyPlaces": [],
+    "cta": null,
+    "note": "* 예시로 소개한 실제 인근 정보입니다"
+  },
+  "HE240049": {
+    "benefit": {
+      "title": "동명항 방파제 산책하고 황가네천에서 마무리하세요",
+      "subtitle": "충전 진행 단계에 맞춰 동선을 나눠드려요"
+    },
+    "advisory": null,
+    "action": {
+      "type": "phase",
+      "options": [
+        {
+          "key": "early",
+          "label": "충전 초반",
+          "detail": "지금 나가면 방파제와 등대 전망대를 짧게 둘러보고 돌아올 수 있어요.",
+          "places": []
+        },
+        {
+          "key": "late",
+          "label": "충전 막바지",
+          "detail": "차로 돌아오는 길에 황가네천에서 포장 메뉴를 픽업해보세요.",
+          "places": [
+            { "name": "황가네천", "distanceM": 329, "walkMin": 5, "category": "음식점" }
+          ]
+        }
+      ]
+    },
+    "nearbyPlaces": [
+      { "name": "황가네천", "distanceM": 329, "walkMin": 5, "category": "음식점" }
+    ],
+    "cta": { "label": "방문 인증하기", "kind": "receipt_submit", "reward": "황가네천 2,000원 할인" },
+    "note": "* 예시로 소개한 실제 인근 가게입니다"
+  },
+  "ME18B229": {
+    "benefit": {
+      "title": "소양강 스카이워크 다녀오고 방문 인증해보세요",
+      "subtitle": "강변길 왕복 약 40분, 충전 완료 전에 넉넉히 돌아올 수 있어요"
+    },
+    "advisory": null,
+    "action": null,
+    "nearbyPlaces": [
+      { "name": "소양강 처녀상 강변길", "distanceM": 1600, "walkMin": 40, "category": "관광지" }
+    ],
+    "cta": null,
+    "note": "* 예시로 소개한 실제 인근 관광지입니다"
+  }
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "city": "강릉시",
+    "route": 0.59,
+    "dest": 0.851,
+    "pRoute": 0.222,
+    "pDest": 0.722,
+    "segment": "이동 중 단절형"
+  },
+  {
+    "city": "원주시",
+    "route": 0.79,
+    "dest": 0.769,
+    "pRoute": 0.667,
+    "pDest": 0.278,
+    "segment": "도착 후 단절형"
+  },
+  {
+    "city": "홍천군",
+    "route": 0.526,
+    "dest": 0.667,
+    "pRoute": 0.167,
+    "pDest": 0.167,
+    "segment": "전 구간 취약형"
+  },
+  {
+    "city": "양양군",
+    "route": 0.469,
+    "dest": 0.825,
+    "pRoute": 0.056,
+    "pDest": 0.444,
+    "segment": "이동 중 단절형"
+  },
+  {
+    "city": "횡성군",
+    "route": 0.525,
+    "dest": 0.7,
+    "pRoute": 0.111,
+    "pDest": 0.222,
+    "segment": "전 구간 취약형"
+  },
+  {
+    "city": "평창군",
+    "route": 0.692,
+    "dest": 0.796,
+    "pRoute": 0.333,
+    "pDest": 0.333,
+    "segment": "균형·경계형"
+  },
+  {
+    "city": "춘천시",
+    "route": 0.737,
+    "dest": 0.83,
+    "pRoute": 0.5,
+    "pDest": 0.5,
+    "segment": "균형·경계형"
+  },
+  {
+    "city": "속초시",
+    "route": 0.741,
+    "dest": 1.0,
+    "pRoute": 0.611,
+    "pDest": 1.0,
+    "segment": "연결 완성형"
+  },
+  {
+    "city": "인제군",
+    "route": 0.663,
+    "dest": 0.37,
+    "pRoute": 0.278,
+    "pDest": 0.056,
+    "segment": "전 구간 취약형"
+  },
+  {
+    "city": "동해시",
+    "route": 0.739,
+    "dest": 0.87,
+    "pRoute": 0.556,
+    "pDest": 0.778,
+    "segment": "연결 완성형"
+  },
+  {
+    "city": "고성군",
+    "route": 0.848,
+    "dest": 0.842,
+    "pRoute": 0.944,
+    "pDest": 0.611,
+    "segment": "연결 완성형"
+  },
+  {
+    "city": "철원군",
+    "route": 0.794,
+    "dest": 0.806,
+    "pRoute": 0.778,
+    "pDest": 0.389,
+    "segment": "도착 후 단절형"
+  },
+  {
+    "city": "화천군",
+    "route": 0.698,
+    "dest": 0.548,
+    "pRoute": 0.389,
+    "pDest": 0.111,
+    "segment": "전 구간 취약형"
+  },
+  {
+    "city": "영월군",
+    "route": 0.791,
+    "dest": 0.85,
+    "pRoute": 0.722,
+    "pDest": 0.667,
+    "segment": "연결 완성형"
+  },
+  {
+    "city": "정선군",
+    "route": 0.809,
+    "dest": 0.88,
+    "pRoute": 0.889,
+    "pDest": 0.833,
+    "segment": "연결 완성형"
+  },
+  {
+    "city": "삼척시",
+    "route": 0.868,
+    "dest": 0.915,
+    "pRoute": 1.0,
+    "pDest": 0.889,
+    "segment": "연결 완성형"
+  },
+  {
+    "city": "양구군",
+    "route": 0.718,
+    "dest": 0.833,
+    "pRoute": 0.444,
+    "pDest": 0.556,
+    "segment": "균형·경계형"
+  },
+  {
+    "city": "태백시",
+    "route": 0.801,
+    "dest": 0.962,
+    "pRoute": 0.833,
+    "pDest": 0.944,
+    "segment": "연결 완성형"
+  }
+]
